@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-This is my unfinished personal portfolio website, so there are only templates for my projects to put in. There is also a blog component that sorts posts by category.
+This is my soon to be redeveloped personal portfolio website, so there are only templates for my projects to put in. There is also a blog component that sorts posts by category.
 
 ## Getting started
 
